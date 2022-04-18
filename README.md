@@ -9,7 +9,7 @@ Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 **Ideal**: Ob Urlaub oder Dienstreise am besten mit dem Zug. Dienstreisen können evtl auch ganz durch ein [virtuelles Meeting ersetzt werden](http://www.flyless.net/Priority-Check-Out).<br>
 **Kompromiss 1**: Alle Reisen mit dem Zug machen. Eine Flugreise nur alle 7 Jahre. C02-Neutral buchen / kompensieren.<br>
 **Kompromiss 2**: Alle Reisen die mit dem Zug unter 8 Stunden dauern mit dem Zug machen.
-Flugreisen alle 2 Jahre, Flugreisen über den Atlantik alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
+Flugreisen maximal alle 2 Jahre, Flugreisen über den Atlantik maximal alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
 http://www.flyless.net <br>
 auch: https://flyingless.de/,  , http://flyingless.org/
 https://www.atmosfair.de/de/kompensieren/flug/
@@ -27,6 +27,8 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A), Solarwärme+Photovoltaik-Anlage + Elektroauto als Speicher.<br>
 
 # Links
+[Balkon-Solar-Kraftwerk](https://www.youtube.com/watch?v=05MomMO4HTU)
+
 [8 Dinge die jeder selbst zur Weltrettung beitragen kann](https://murmann-magazin.de/economy/2017/10/klimawandel-8-dinge-die-jeder-selbst-zur-weltrettung-beitragen-kann/)
 
 [Zeit.de: Klimaschutz: Warum unsere Ausreden falsch sind](https://www.zeit.de/gesellschaft/2019-04/klimaschutz-oekologie-nachhaltigkeit-flugreisen-fleischkonsum-fossile-brennstoffe)
