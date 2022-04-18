@@ -12,8 +12,9 @@ Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 **Kompromiss 2**: Alle Reisen die mit dem Zug unter 8 Stunden dauern mit dem Zug machen.
 Flugreisen maximal alle 2 Jahre, Flugreisen über den Atlantik maximal alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
 http://www.flyless.net <br>
-auch: https://flyingless.de/,  , http://flyingless.org/
-https://www.atmosfair.de/de/kompensieren/flug/
+auch: https://flyingless.de/,  , http://flyingless.org/<br>
+https://www.atmosfair.de/de/kompensieren/flug/ <br>
+https://klimaneutral-jetzt.de/collections/klimaneutral-fliegen
 
 # Essen und Fleisch
 **Ideal**: Regional und Vegan<br>
