@@ -25,6 +25,10 @@ Climeworks (www.climeworks.com/subscriptions) "verkauft" DAC zu etwa 1 € pro k
 **Kompromiss 1**: Regional und Vegetarisch<br>
 **Kompromiss 2**: Zurück zu Omas Zeiten. Fleischverzehr einmal die Woche zum Beispiel am Sonntag. Dann Regional. <br>
 
+# Einkaufen
+Reduce, reuse, recycle - so ziemlich jedes neu produzierte Objekt verbraucht Energie /generiert CO2 in seiner Herstellung.
+Ebay-Kleinanzeigen und Reparaturen aller Art, auch "unwirtschaftliche" Reparaturen, helfen so direkt bei der Verminderung von C02.
+
 # Wohnen zur Miete
 Ökostrom beziehen, Strom sparen, [Balkon-Solar-Kraftwerk](https://www.youtube.com/watch?v=05MomMO4HTU) bauen wenn möglich,<br>
 Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklären, nachfragen
