@@ -10,7 +10,7 @@ Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 **Ideal**: Ob Urlaub oder Dienstreise am besten mit dem Zug. Dienstreisen können evtl auch ganz durch ein [virtuelles Meeting ersetzt werden](http://www.flyless.net/Priority-Check-Out).<br>
 **Kompromiss 1**: Alle Reisen mit dem Zug machen. Eine Flugreise nur alle 7 Jahre. C02-Neutral buchen / kompensieren.<br>
 **Kompromiss 2**: Alle Reisen die mit dem Zug unter 8 Stunden dauern mit dem Zug machen.
-Flugreisen maximal alle 2 Jahre, Flugreisen über den Atlantik maximal alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
+Flugreisen bis 2000 km maximal alle 2 Jahre, Flugreisen über 2000 km maximal alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
 http://www.flyless.net <br>
 auch: https://flyingless.de/,  , http://flyingless.org/<br>
 https://www.atmosfair.de/de/kompensieren/flug/ <br>
