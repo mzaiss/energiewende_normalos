@@ -10,7 +10,7 @@ Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 **Kompromiss 1**: Alle Reisen mit dem Zug machen. Eine Flugreise nur alle 7 Jahre. C02-Neutral buchen / kompensieren.<br>
 **Kompromiss 2**: Alle Reisen die mit dem Zug unter 8 Stunden dauern mit dem Zug machen.
 Flugreisen alle 2 Jahre, Flugreisen über den Atlantik alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
-http://www.flyless.net
+http://www.flyless.net <br>
 auch: https://flyingless.de/,  , http://flyingless.org/
 https://www.atmosfair.de/de/kompensieren/flug/
 
@@ -20,7 +20,7 @@ https://www.atmosfair.de/de/kompensieren/flug/
 **Kompromiss 2**: Zurück zu Omas Zeiten. Fleischverzehr einmal die Woche zum Beispiel am Sonntag. Dann Regional. <br>
 
 # Wohnen zur Miete
-Ökostrom beziehen, Strom sparen, Balkon-Solar-kraftwerk bauen wenn möglich,<br>
+Ökostrom beziehen, Strom sparen, [Balkon-Solar-Kraftwerk](https://www.youtube.com/watch?v=05MomMO4HTU) bauen wenn möglich,<br>
 Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklären, nachfragen
 
 # Wohnen & Bauen
