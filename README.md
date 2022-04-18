@@ -2,7 +2,7 @@
 **Eine Einladung zum freiwilligen Mitmachen.** <br> <br>
 Die Energiewende und die Normalisierung des Klimas kann nur klappen, wenn Normalos wie Sie und ich und Hunz und Kunz ein signifikant anderes Leben führen.
 Das wird Normalos zudem weitaus selbstbewusster machen, um auch von Firmen und der Regierung nachhaltige Konzepte zu verlangen.
-Da Normalos oder [Otto/Ottilie Normalverbraucher](https://de.wikipedia.org/wiki/Otto_Normalverbraucher) typischerweise nicht alles aufopfern, aber zu gewissen Kompromissen bereit sind, sollen hier mögliche sinnvolle Kompromisse gesammelt werden. Die Kompromisse gehen teilweise recht weit (Pi mal Daumen ein Siebtel), da angenommen wird, dass NormalverbraucherInnen diese Notwendigkeit verstehen um die Erwärmungsziele zu erreichen. Sie sollen aber auch noch alle Freiheiten und allen Spaß im Leben enthalten. Nach dem Credo: Durch Maß, Innovation, Nachaltigkeit und Kreisläufe muss ein schönes Leben auf diesem Planeten doch möglich sein und bleiben.
+Da Normalos oder [Otto Normalverbraucher](https://de.wikipedia.org/wiki/Otto_Normalverbraucher) typischerweise nicht alles aufopfern, aber zu gewissen Kompromissen bereit sind, sollen hier mögliche sinnvolle Kompromisse gesammelt werden. Die Kompromisse gehen teilweise recht weit (Pi mal Daumen ein Siebtel), da angenommen wird, dass NormalverbraucherInnen diese Notwendigkeit verstehen um die Erwärmungsziele zu erreichen. Sie sollen aber auch noch alle Freiheiten und allen Spaß im Leben enthalten. Nach dem Credo: Durch Maß, Innovation, Nachaltigkeit und Kreisläufe muss ein schönes Leben auf diesem Planeten doch möglich sein und bleiben.
 Wem dies hier (Kompromiss 2) zu weit geht sollte sich mit den [Klimafolgen](https://www.youtube.com/watch?v=JUaAgFJgNgg) näher beschäftigen.
 Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 
@@ -40,3 +40,8 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 [Zeit.de: Klimaschutz: Warum unsere Ausreden falsch sind](https://www.zeit.de/gesellschaft/2019-04/klimaschutz-oekologie-nachhaltigkeit-flugreisen-fleischkonsum-fossile-brennstoffe)
 
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A)
+
+direct air capture <br>
+https://de.wikipedia.org/wiki/Direct_air_capture <br>
+www.climeworks.com/subscriptions<br>
+https://de.wikipedia.org/wiki/Negative_Emissionen
