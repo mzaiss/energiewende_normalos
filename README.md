@@ -20,6 +20,12 @@ Das beim Fliegen nicht-lokal emittierte C02 wieder aus der Luft zu holen geht nu
 Die tatsächlichen Kosten des Fliegens (Transatlantikflug (Hin und Rück) etwa 3T C02) kann also mit den Kosten dieser Methode berechnet werden.
 Climeworks (www.climeworks.com/subscriptions) "verkauft" DAC zu etwa 1 € pro kg C02. Der Transatlantikflug kostet daher etwa 3000 € zusätzlich um echt C02-neutral zu sein. Leider ist DAC auch nicht der Weisheit letzter Schluss, da die Lagermöglichkeiten im Gestein begrenzt sind. Trotzdem bietet es einen  hilfreichen Anhaltspunkt Flugreisen doch seltener zu unternehmen.
 
+# Mobilität
+**Ideal:** Öffentliche Verkehrsmittel (ÖPNV)<br>
+**Kompromiss 1**: ÖPNV + (E)CarSharing <br>
+**Kompromiss 2**: ÖPNV + Elektromobil genutzt mit erneuerbarer Energie<br>
+**Kompromiss 3**:  Da Elektroautos oft sehr teuer sind, können [E-Roller](https://www.govecsgroup.com/modelle/schwalbe) oder [Mikro-E-Autos](https://www.spiegel.de/auto/opel-rocks-e-im-test-cooler-koeder-a-cf847fd5-7f3b-4285-941d-b7eb40fe321a) (unter 10000 €) fürs flache Land auch eine Lösung sein.<br>
+
 # Essen und Fleisch
 **Ideal**: Regional und Vegan<br>
 **Kompromiss 1**: Regional und Vegetarisch<br>
