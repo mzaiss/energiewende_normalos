@@ -1,4 +1,5 @@
-# Energiewende für  Normalos - eine Einladung zum freiwilligen Mitmachen.
+# Energiewende für  Normalos 
+**eine Einladung zum freiwilligen Mitmachen.** <br>
 Die Energiewende und die Normalisierung des Klimas kann nur klappen, wenn Normalos wie Sie und ich und Hunz und Kunz ein signifikant anderes Leben führen.
 Das macht die Normalos zudem weitaus selbstbewusster machen, um auch von Firmen und der Regierung Nachhaltige Konzepte zu verlangen.
 Da Normalos oder [Otto/Ottilie Normalverbraucher](https://de.wikipedia.org/wiki/Otto_Normalverbraucher) typischerweise nicht alles aufopfern, aber zu gewissen Kompromissen bereit sind, sollen hier mögliche sinnvolle Kompromisse gesammelt werden. Die Kompromisse gehen teilweise recht weit (Pi mal Daumen ein Siebtel), da angenommen wird, dass NormalverbraucherInnen diese Notwendigkeit verstehen um die Erwärmungsziele zu erreichen. Sie sollen aber auch noch alle Freiheiten und allen Spaß im Leben enthalten. Nach dem Credo: Durch Maß, Innovation, Nachaltigkeit und Kreisläufe muss ein schönes Leben auf diesem Planeten doch möglich sein.
