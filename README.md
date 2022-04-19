@@ -43,7 +43,7 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A), Solarwärme+Photovoltaik-Anlage + Elektroauto als Speicher.<br>
 
 # Links
-**Balkon-Solar-Kraftwerk**
+**Balkon-Solar-Kraftwerk**<br>
 [Youtube Video zu Balkon-PV](https://www.youtube.com/watch?v=05MomMO4HTU)<br>
 https://www.pvplug.de/<br>
 https://www.steckersolargeraet.de/<br>
@@ -55,7 +55,7 @@ https://www.steckersolargeraet.de/<br>
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A)
 
 [Spiegel: E-Mobilitaet](https://www.spiegel.de/auto/elektroautos-tatsaechlicher-co2-ausstoss-niedriger-als-bisher-angenommen-a-01907849-ede6-4f24-8c3f-89475aadbe69)
-direct air capture <br>
+**direct air capture** <br>
 https://de.wikipedia.org/wiki/Direct_air_capture <br>
 www.climeworks.com/subscriptions<br>
 https://de.wikipedia.org/wiki/Negative_Emissionen
