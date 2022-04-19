@@ -43,7 +43,10 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A), Solarwärme+Photovoltaik-Anlage + Elektroauto als Speicher.<br>
 
 # Links
-[Balkon-Solar-Kraftwerk](https://www.youtube.com/watch?v=05MomMO4HTU)
+**Balkon-Solar-Kraftwerk**
+[Youtube Video zu Balkon-PV](https://www.youtube.com/watch?v=05MomMO4HTU)<br>
+https://www.pvplug.de/<br>
+https://www.steckersolargeraet.de/<br>
 
 [8 Dinge die jeder selbst zur Weltrettung beitragen kann](https://murmann-magazin.de/economy/2017/10/klimawandel-8-dinge-die-jeder-selbst-zur-weltrettung-beitragen-kann/)
 
