@@ -55,6 +55,10 @@ https://www.iea.org/reports/playing-my-part
 
 [Spiegel: E-Mobilitaet](https://www.spiegel.de/auto/elektroautos-tatsaechlicher-co2-ausstoss-niedriger-als-bisher-angenommen-a-01907849-ede6-4f24-8c3f-89475aadbe69)
 
+In 2022, when the latest IPCC report says that we need to make rapid, deep, and immediate cuts to emissions.
+“The scientific evidence is unequivocal: climate change is a threat to human wellbeing and the health of the planet. Any further delay in concerted global action will miss a brief and rapidly closing window to secure a liveable future” (Hans-Otto Pörtner, IPCC site) <br>
+https://www.ipcc.ch/report/ar6/wg2/resources/press/press-release
+
 **Balkon-Solar-Kraftwerk**<br>
 [Youtube Video zu Balkon-PV](https://www.youtube.com/watch?v=05MomMO4HTU)<br>
 https://www.pvplug.de/<br>
