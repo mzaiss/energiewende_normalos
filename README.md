@@ -43,10 +43,9 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A), Solarwärme+Photovoltaik-Anlage + Elektroauto als Speicher.<br>
 
 # Links
-**Balkon-Solar-Kraftwerk**<br>
-[Youtube Video zu Balkon-PV](https://www.youtube.com/watch?v=05MomMO4HTU)<br>
-https://www.pvplug.de/<br>
-https://www.steckersolargeraet.de/<br>
+
+How to save money, reduce reliance on Russian energy, support Ukraine and help the planet<br>
+https://www.iea.org/reports/playing-my-part
 
 [8 Dinge die jeder selbst zur Weltrettung beitragen kann](https://murmann-magazin.de/economy/2017/10/klimawandel-8-dinge-die-jeder-selbst-zur-weltrettung-beitragen-kann/)
 
@@ -56,6 +55,10 @@ https://www.steckersolargeraet.de/<br>
 
 [Spiegel: E-Mobilitaet](https://www.spiegel.de/auto/elektroautos-tatsaechlicher-co2-ausstoss-niedriger-als-bisher-angenommen-a-01907849-ede6-4f24-8c3f-89475aadbe69)
 
+**Balkon-Solar-Kraftwerk**<br>
+[Youtube Video zu Balkon-PV](https://www.youtube.com/watch?v=05MomMO4HTU)<br>
+https://www.pvplug.de/<br>
+https://www.steckersolargeraet.de/<br>
 
 **direct air capture** <br>
 https://de.wikipedia.org/wiki/Direct_air_capture <br>
