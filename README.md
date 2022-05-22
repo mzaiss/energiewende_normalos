@@ -42,7 +42,7 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 # Wohnen & Bauen
 [Passivhaus + Wärmepumpe](https://www.youtube.com/watch?v=sQJRRSnAe0A), Solarwärme+Photovoltaik-Anlage + Elektroauto als Speicher.<br>
 
-#Geldanlage
+# Geldanlage
 Was macht ihr Bank mit Tagegeld oder Geldanlage? Was macht ihr Rentenfond?
 Fragen, Dekarbonisieren, Bank Wechseln.
 Vielleicht eines der Mächtigste Werkzeuge sollten das viele kleine Leute machen.
