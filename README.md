@@ -44,12 +44,22 @@ Besitzer über Passiv-Haus, Wärmepumpe, Photovoltaik, Solar-/Geothermie aufklä
 
 # Geldanlage
 Was macht ihr Bank mit Tagegeld oder Geldanlage? Was macht ihr Rentenfond?
-Fragen, Dekarbonisieren, Bank Wechseln.
+Fragen, Dekarbonisieren, Bank Wechseln. (EthikBank, GLS Bank, Triodos Bank, Umweltbank)
 Vielleicht eines der Mächtigste Werkzeuge sollten das viele kleine Leute machen.
+https://utopia.de/bestenlisten/die-besten-gruenen-banken/
+
+Als Geldanlage werden oft sogennante "sustainibility screened fonds" genannt. Diese sind aber seltsamen Kriterien unterworfen udn oft schmutzig:
+https://www.umweltbank.de/finanzwissen/gruene-etfs#erkennen
+
+Daher gibt es zwei möglcihkeiten, entweder Fonds dieser Banken suchen: https://www.umweltbank.de/anlegen/umweltfonds
+
+Oder selbst ein nachhaltiges Portfolio aufbauen, mit genau den Aktien und Firmen die Sie unterstützen wollen.
+https://www.wikifolio.com/de/de/w/wfgreenopt#portfolio
+https://www.wikifolio.com/de/de/w/wfffnature#portfolio
+https://www.wikifolio.com/de/de/w/wfvago4683#portfolio
 
 
 # Links
-
 How to save money, reduce reliance on Russian energy, support Ukraine and help the planet<br>
 https://www.iea.org/reports/playing-my-part
 
@@ -74,3 +84,8 @@ https://www.steckersolargeraet.de/<br>
 https://de.wikipedia.org/wiki/Direct_air_capture <br>
 www.climeworks.com/subscriptions<br>
 https://de.wikipedia.org/wiki/Negative_Emissionen
+
+**Grüne Banken Deutschland**
+EthikBank, GLS Bank, Triodos Bank, Umweltbank
+
+https://utopia.de/bestenlisten/die-besten-gruenen-banken/
