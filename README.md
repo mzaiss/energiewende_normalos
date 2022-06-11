@@ -48,13 +48,15 @@ Fragen, Dekarbonisieren, Bank Wechseln. (EthikBank, GLS Bank, Triodos Bank, Umwe
 Vielleicht eines der Mächtigste Werkzeuge sollten das viele kleine Leute machen.
 https://utopia.de/bestenlisten/die-besten-gruenen-banken/
 
-Als Geldanlage werden oft sogennante "sustainibility screened fonds" genannt. Diese sind aber seltsamen Kriterien unterworfen udn oft schmutzig:
+Als Geldanlage werden oft sogennante "sustainibility screened fonds" genannt. Diese sind aber seltsamen Kriterien unterworfen und oft nicht ideal:
 https://www.umweltbank.de/finanzwissen/gruene-etfs#erkennen
+Trotzdem sinnvoll:
+https://www.finanztip.de/indexfonds-etf/nachhaltige-geldanlagen/?utm_source=spiegel
 
-Daher gibt es zwei Möglichkeiten, entweder Fonds der genannten Banken kaufen: https://www.umweltbank.de/anlegen/umweltfonds
+Noch strenger selektiert gibt es zwei Möglichkeiten, entweder Fonds der genannten Banken kaufen: https://www.umweltbank.de/anlegen/umweltfonds
 
 Oder selbst ein nachhaltiges Portfolio aufbauen, mit genau den Aktien und Firmen die Sie unterstützen wollen.
-Hier kann man Finds der Banken nachempfinden ([hier ein Portfolio der Umweltbank](https://www.umweltbank.de/_Resources/Persistent/c/e/8/0/ce80ef25797166e11c334509f409365abbbc08c6/UmweltSpektrumNatur-Portfolio.pdf)), 
+Hier kann man Fonds der Banken nachempfinden ([hier ein Portfolio der Umweltbank](https://www.umweltbank.de/_Resources/Persistent/c/e/8/0/ce80ef25797166e11c334509f409365abbbc08c6/UmweltSpektrumNatur-Portfolio.pdf)), 
 
 oder sich selbst etwas zusammenstellen:
 
