@@ -1,13 +1,22 @@
-# Energiewende für  Normalos 
+# Energiewende und Klima(wirtschafts)wunder für  Normalos 
 **Eine Einladung zum freiwilligen Mitmachen.** <br> <br>
-Die Energiewende und die Normalisierung des Klimas kann nur klappen, wenn Normalos wie Sie und ich ein signifikant anderes Leben führen.
+
+Was hilft es wenn wir hier unser Leben umstellen, aber der Rest der Welt fossil und unnachhaltig bleibt?
+Es gibt nur eine Möglichkeit: Man muss eine Gesellschaft und Wirtschaft aufbauen, die mit Kreisläufen und erneuerbaren Energien/Ressourcen besser funktioniert als das fossile System.
+Wir brauchen ein proof-of-principle, dass das geht, C02 neutral ist und sogar ein Klima-Wirtschaftswunder nach sich zieht.
+Nur so zieht das Nachahmer nach sich.
+
+Geht das? Technologien sind da, muessen nur ausgerollt werden(Quaschning). 
+Schafft das eine Gesellschaft? Wer hätte an das deutsche Wirtschaftswunder nach WW2 geglaubt? 
+
+Die Normalisierung des Klimas kann nur klappen, wenn Normalos wie Sie und ich ein signifikant anderes Leben führen.
 Das wird Normalos zudem weitaus selbstbewusster machen, um auch von Firmen und der Regierung nachhaltige Konzepte zu verlangen.
 Da Normalos oder [Otto Normalverbraucher](https://de.wikipedia.org/wiki/Otto_Normalverbraucher) typischerweise nicht alles aufopfern, aber zu gewissen Kompromissen bereit sind, sollen hier mögliche sinnvolle Kompromisse gesammelt werden. Die Kompromisse gehen teilweise recht weit (Pi mal Daumen ein Siebtel), da angenommen wird, dass NormalverbraucherInnen diese Notwendigkeit verstehen um die Erwärmungsziele zu erreichen. Sie sollen aber auch noch alle Freiheiten und allen Spaß im Leben enthalten. Nach dem Credo: Durch Maß, Innovation, Nachaltigkeit und Kreisläufe muss ein schönes Leben auf diesem Planeten doch möglich sein und bleiben.
 Wem dies hier (Kompromiss 2) zu weit geht sollte sich mit den [Klimafolgen](https://www.youtube.com/watch?v=JUaAgFJgNgg) näher beschäftigen.
 Wem dies hier nicht zu weit darf gerne noch weiter gehen.
 
 # Reisen
-**Ideal**: Ob Urlaub oder Dienstreise am besten mit dem Zug. Dienstreisen können evtl auch ganz durch ein [virtuelles Meeting ersetzt werden](http://www.flyless.net/Priority-Check-Out).<br>
+**Ideal**: Ob Urlaub oder Dienstreisen am besten mit dem Zug. Dienstreisen können evtl auch ganz durch ein [virtuelles Meeting ersetzt werden](http://www.flyless.net/Priority-Check-Out).<br>
 **Kompromiss 1**: Alle Reisen mit dem Zug machen. Eine Flugreise nur alle 7 Jahre. C02-Neutral buchen / kompensieren.<br>
 **Kompromiss 2**: Alle Reisen die mit dem Zug unter 8 Stunden dauern mit dem Zug machen.
 Flugreisen bis 2000 km maximal alle 2 Jahre, Flugreisen über 2000 km maximal alle 4 Jahre. C02-Neutral buchen / kompensieren.<br>
