@@ -8,7 +8,7 @@ Nur so zieht das Nachahmer nach sich.
 
 Geht das? Technologien sind da, muessen nur ausgerollt werden(Quaschning). 
 Schafft das eine Gesellschaft? Wer hätte an das deutsche Wirtschaftswunder nach WW2 geglaubt? 
-Ich möchte mit Hoffnung einer Verbesserung zuarbeiten, und nicht deprimiert einer fossilen Katastrophe mit totalem Ohnmachtsgefuehl zusehen.
+Besser mit Hoffnung einer Verbesserung zuarbeiten, als deprimiert einer fossilen Katastrophe mit totalem Ohnmachtsgefuehl zusehen.
 
 Die Normalisierung des Klimas kann nur klappen, wenn Normalos wie Sie und ich ein signifikant anderes Leben führen.
 Das wird Normalos zudem weitaus selbstbewusster machen, um auch von Firmen und der Regierung nachhaltige Konzepte zu verlangen.
