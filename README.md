@@ -24,7 +24,8 @@ Flugreisen bis 2000 km maximal alle 2 Jahre, Flugreisen über 2000 km maximal al
 http://www.flyless.net <br>
 auch: https://flyingless.de/,  , http://flyingless.org/<br>
 https://www.atmosfair.de/de/kompensieren/flug/ <br>
-https://klimaneutral-jetzt.de/collections/klimaneutral-fliegen
+https://klimaneutral-jetzt.de/collections/klimaneutral-fliegen <br>
+https://www.carbonoffsets.eu/
 
 Das beim Fliegen nicht-lokal emittierte C02 wieder aus der Luft zu holen geht nur mit sogennanter direct-air-capture (DAC).
 Die tatsächlichen Kosten des Fliegens (Transatlantikflug (Hin und Rück) etwa 3T C02) kann also mit den Kosten dieser Methode berechnet werden.
